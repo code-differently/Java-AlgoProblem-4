@@ -1,4 +1,4 @@
-package hbcu.stay.ready.algorithms;
+package com.codedifferently.algorithms;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

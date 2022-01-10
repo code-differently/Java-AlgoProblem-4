@@ -14,11 +14,16 @@ Shift 3
 Ndohe
 
 ### Explanation
-K -> +3 -> N
+```
+K => +3 => N
 a -> +3 -> d
 l -> +3 -> o
 e -> +3 -> h
 b -> +3 -> e
+```
+
+> Research [Characters in Java](https://www.javatpoint.com/post/java-character)
 
 ## Submission
+
 Push your changes to GitHub

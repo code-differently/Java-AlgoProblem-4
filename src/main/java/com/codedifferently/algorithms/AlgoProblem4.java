@@ -1,4 +1,4 @@
-package hbcu.stay.ready.algorithms;
+package com.codedifferently.algorithms;
 
 public class AlgoProblem4 {
 
